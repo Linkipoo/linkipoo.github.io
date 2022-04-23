@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Noah Geib">
+  <link rel="stylesheet" href="css/styles.css">
+  <title>Noah Geib</title>
+  <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+</head>
+
+<body>
+  <div class="Wrapper">
+    
+	<!-- Initializing the NavBar, Using JQuery. Info Here : https://api.jquery.com/load/ -->
+    <nav id="NavBar" class="NavBar"></nav>
+	<script>
+		$( "#NavBar" ).load( "/a/resources/load.html #NavBar" );
+	</script>
+    
+    <div class="ContentBody">
+      <div class="ContentBorder" id="ContentBorderLEFT"></div>
+
+      <div class="Content">
+          <br>
+		  <h2>Introduction:</h2>
+		  <p>
+				My name is Noah Geib, and this is my portfolio website. I programmed it using Notepad++. Here you will be able to see glimpses at the many projects I've worked on in the past years.
+		  </p>
+          <h2>Summary:</h2>
+          <p id="gensum">
+					    I have experience/talent in computer science, programming, hardware/software support, 3D modelling, and game design/creation. Currently I'm trying my hand at making independant games under the name Shadowlynx Studio. I'm 20 years old, but I've been interested and pursuing computer science knowledge since I was a child.
+				  </p>
+          <h2>Resume:</h2>
+          <iframe class="GoogleDoc" scrolling="no"    src="https://docs.google.com/document/d/e/2PACX-1vSaf4zyj7df3V-3MKNEPlnz6kmZqqHtMpbKKrfeVY5A9bG-_P0wonnm-BowPEBtmMHRtSeDSF2KCUd9/pub?embedded=true"></iframe>
+      </div>
+
+      <div class="ContentBorder" id="ContentBorderRIGHT"></div>
+    </div>
+
+    <footer id="Footer"></footer>
+	<script>
+		$( "#Footer" ).load( "/a/resources/load.html #Footer" );
+	</script>
+
+  </div>
+</body>
+
+</html>

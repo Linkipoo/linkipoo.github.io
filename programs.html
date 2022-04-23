@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Noah Geib">
+  <link rel="stylesheet" href="css/styles.css">
+  <title>Noah Geib</title>
+  <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+</head>
+
+<body>
+  <div class="Wrapper">
+    
+	<!-- Initializing the NavBar, Using JQuery. Info Here : https://api.jquery.com/load/ -->
+    <nav id="NavBar" class="NavBar"></nav>
+	<script>
+		$( "#NavBar" ).load( "/a/resources/load.html #NavBar" );
+	</script>
+    <div class="ContentBody">
+      <div class="ContentBorder" id="ContentBorderLEFT"></div>
+
+      <div class="Content">
+          <br>
+          <h1>Flat Palette</h1>
+          <h2>
+            This is a preview of a program I'm making to pick out color palettes for games and modeling. <br>
+            It's mainly for low poly 3D modeling, as I use that art style a lot in my games. <br>
+            Eventually I'm planning on letting you import 3D models into it and paint individual faces with colors from the palette.
+          </h2>
+          <iframe class="YTVid" width="560" height="315" src="https://www.youtube.com/embed/ntcxoOmQ1-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          <h1>TPG</h1>
+          <h2>This program is for converting singular or whole directories of media files. Programmed in Pyhthon using FFMPEG.</h2>
+          <iframe class="YTVid" width="560" height="315" src="https://www.youtube.com/embed/21-71K7AW6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          <h1>GBPM</h1>
+          <h2>This program is made in python, for making UI for other python programs using the Tkinter library</h2>
+          <iframe class="YTVid" width="560" height="315" src="https://www.youtube.com/embed/-tBwCcqZuSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+
+      <div class="ContentBorder" id="ContentBorderRIGHT"></div>
+    </div>
+
+    <footer id="Footer"></footer>
+	<script>
+		$( "#Footer" ).load( "/a/resources/load.html #Footer" );
+	</script>
+
+  </div>
+</body>
+
+</html>
