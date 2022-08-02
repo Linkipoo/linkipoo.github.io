@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Renders on Noah Geib</title>
+    <link>http://example.org/renders/</link>
+    <description>Recent content in Renders on Noah Geib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jul 2022 18:52:19 -0700</lastBuildDate><atom:link href="http://example.org/renders/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Low-Poly Weapons</title>
+      <link>http://example.org/renders/test/</link>
+      <pubDate>Fri, 22 Jul 2022 18:52:19 -0700</pubDate>
+      
+      <guid>http://example.org/renders/test/</guid>
+      <description>I modeled all of these objects using Blender, either for projects or practice. US WWII Service Weapons: AK-47: Gladiator Weapons: Rhombic Dodecahedron - UNRELATED </description>
+    </item>
+    
+  </channel>
+</rss>

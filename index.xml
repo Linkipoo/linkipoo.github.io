@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noah Geib</title>
+    <link>https://linkipoo.github.io/</link>
+    <description>Recent content on Noah Geib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://linkipoo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programs</title>
+      <link>https://linkipoo.github.io/programs/</link>
+      <pubDate>Wed, 27 Jul 2022 10:39:36 -0700</pubDate>
+      
+      <guid>https://linkipoo.github.io/programs/</guid>
+      <description>Godot Flat Palette Made with Godot Flat Palette is a program I&amp;rsquo;m making to pick out color palettes for games and modeling. It&amp;rsquo;s mainly for low poly 3D modeling, as I use that art style a lot in my games. Eventually I&amp;rsquo;m planning on letting you import 3D models into it and paint individual faces with colors from the palette. Python Bodge Script Programmed in Python Bodge Script is a programming language in it&amp;rsquo;s infancy.</description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://linkipoo.github.io/art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkipoo.github.io/art/</guid>
+      <description>Renders Rhombic Dodecahedron: Inspired By: Satelite In Orbit: Torus Planet: Seussian Tentacle: Low-Poly Weapons US WWII Service Weapons: AK-47: Gladiator Weapons: </description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://linkipoo.github.io/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkipoo.github.io/education/</guid>
+      <description>College Ivy Tech: I was enrolled in Ivytech Community College. My cumulative GPA is 3.4. I wasn&amp;rsquo;t seeking out any specific degree, I was just taking classes that I think would serve useful. I&amp;rsquo;ve taken Intro to Informatics, A+ Cert Prep Hardware/Software, Web Development, Intro to Entrepreneurship, and Entrepreneurial Marketing. I&amp;rsquo;ve taken a break from college though to work on game development. But now I&amp;rsquo;m returning for a CS degree in an online college.</description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://linkipoo.github.io/games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkipoo.github.io/games/</guid>
+      <description>Overview : Here is a list of some of the games I&amp;rsquo;ve made , you can find some of them on my Itch.io page here https://linkipoo.itch.io. Though I have worked on many other projects, I&amp;rsquo;m still populating this website. They were all made using the Godot game engine.
+Massacre Demo, Map Editor Notable Features Save/Load System Undo/Redo System Brush Resource System, Including Polygonal And Star Brushes With Resizing. Video ⠀ 2D Craft Demo Notable Features Save/Load system In-depth player controller Very easy to implement more block types with different collision shapes Infinite world generation using simplex noise Gameplay ⠀ USSR - The Forgotten Game Jam, Full - Release Notable Features Event triggers Checkpoint triggers Horror atmosphere Gameplay ⠀ Galactic Gardener Demo Notable Features Planetary gravity Save/Load system Simulated economy for crop prices Crop system with light dependany growth Day/Night cycle depending on position on planet Multiple planets that simulate plant growth while loaded or not Tool system Gameplay ⠀ Tempus Para Game Jam, Full - Release Notable Features Reversing time Enemies that utilize navigation meshes Logic gate puzzle system, using levers, buttons, and wires Gameplay </description>
+    </item>
+    
+  </channel>
+</rss>
